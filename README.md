@@ -1,8 +1,8 @@
 # CHANGELOG YellOwBot [BETA]
 
-## Comandos:
+## Comando Cadastrar Usuário:
 
-**Cadastrar**
+**Funcionalidades**
 
 > STATUS [EM ANDAMENTO]
 
