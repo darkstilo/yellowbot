@@ -2,7 +2,7 @@
 
 ## Comandos:
 
-**/cadastrar**
+**Cadastrar**
 
 > STATUS [EM ANDAMENTO]
 
