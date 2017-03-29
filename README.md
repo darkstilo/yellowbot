@@ -1,7 +1,7 @@
 # CHANGELOG YellOwBot [BETA]
 
 ### [ Conclúido ]
-- zh-CN and zh-TW translations from @tianshuo.
+- Mensagem: envio de detalhes de cadastro [100%]
 
 
 ## [Prioridades]
