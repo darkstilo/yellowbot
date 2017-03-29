@@ -6,13 +6,13 @@
 
 > STATUS [EM ANDAMENTO]
 
-- [x] 1 Verificar se o `id` já possui algum cadastro no banco de dados;
+- [x] 1. Verificar se o `id` já possui algum cadastro no banco de dados;
 
-- [ ] 2 Verificar se o `usuário` informado no comando /cadastrar `[usuário]` já existe no banco de dados;
+- [ ] 2. Verificar se o `usuário` informado no comando /cadastrar `[usuário]` já existe no banco de dados;
 
-- [ ] 3 Não permitir cadastrar com usuário tendo caracteres especiais, somente letras e números;
+- [ ] 3. Não permitir cadastrar com usuário tendo caracteres especiais, somente letras e números;
 
-- [x] 4 Enviar no grupo `mensagens` de retorno.
+- [x] 4. Enviar no grupo `mensagens` de retorno.
 
 
 **Mensagens de Retorno**
