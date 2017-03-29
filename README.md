@@ -2,6 +2,6 @@
 
 ## Comandos:
 
-** /cadastrar **
+**/cadastrar**
 
 
