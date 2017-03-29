@@ -25,3 +25,5 @@
 > `Somente letras e números.`
 
 - [x] Adicionar botão na mensagem de retorno do grupo, para que o usuário possa iniciar uma conversa com o bot.
+
+> Permitir o uso do comando apenas em grupo.
