@@ -10,7 +10,7 @@
 
 - [ ] Verificar se o `usuário` informado no comando /cadastrar `[usuário]` já existe no banco de dados;
 
-- [x] Enviar no grupo uma `mensagem` de retorno
+- [x] Enviar no grupo `mensagens` de retorno.
 
 
 **Mensagens de Retorno**
