@@ -14,6 +14,16 @@
 
 - [x] Enviar no grupo `mensagens` de retorno.
 
+- [x] Enviar no privado `mensagem` de retorno com detalhes do cadastro. Contendo os seguintes detalhes.
+```
+💬 Grupo:
+🕐 Validade:
+
+🖥 IP:
+👤 Usuário: 
+🔑 Senha:
+```
+
 
 **Mensagens de Retorno**
 > `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
@@ -27,3 +37,5 @@
 - [x] Adicionar botão na mensagem de retorno do grupo, para que o usuário possa iniciar uma conversa com o bot.
 
 > Permitir o uso do comando apenas em grupo.
+
+## Funcionalidade Remov:
