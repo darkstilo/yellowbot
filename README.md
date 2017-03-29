@@ -10,7 +10,13 @@
 
 - [ ] Verificar se o `usuário` informado no comando /cadastrar `[usuário]` já existe no banco de dados;
 
-- [x] Enviar no grupo uma `mensagem` de retorno 
+- [x] Enviar no grupo uma `mensagem` de retorno
+
+
+**Mensagens de Retorno**
+> `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
+
+> `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
 
 > `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
 
