@@ -20,6 +20,4 @@
 
 > `Você já possui um cadastro em nosso sistema.`
 
-- [x] Enviar uma `mensagem` de retorno ao membro com os detalhes de cadastro;
-
-- [x] Enviar uma `mensagem` de retorno ao membro com os detalhes de cadastro;
+- [x] Adicionar botão na mensagem de retorno do grupo, para que o usuário possa iniciar uma conversa com o bot.
