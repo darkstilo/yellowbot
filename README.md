@@ -16,9 +16,9 @@
 **Mensagens de Retorno**
 > `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
 
-> `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
+> `Desculpe, mas o usuário informado já existe. Tente novamente com outro diferente!`
 
-> `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
+> `Você já possui um cadastro em nosso sistema.`
 
 - [x] Enviar uma `mensagem` de retorno ao membro com os detalhes de cadastro;
 
