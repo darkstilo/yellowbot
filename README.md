@@ -45,7 +45,10 @@
 
 - [ ] Criar comando para adicionar IDs de usuários que podem usar o comando para adicionar o Servidor
 
+- [ ] Criar comando para adicionar dados do servidor ao banco de dados.
+
 **Mensagens de Retorno**
 
 > `Usuário cadastrado com sucesso.` [MASTER]
+
 > `Desculpe, mas você não tem previlegios para usar este comando.`[MEMBROS NÃO CADASTRADOS]
