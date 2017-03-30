@@ -12,9 +12,7 @@
 
 - [ ] Não permitir cadastrar com usuário tendo caracteres especiais, somente letras e números; [4]
 
-- [x] Enviar no grupo `mensagens` de retorno.
-
-- [x] Enviar no privado `mensagem` de retorno com detalhes do cadastro. Contendo os seguintes detalhes.
+- [x] Enviar no privado `mensagem` de retorno com detalhes do cadastro. Contendo os seguintes detalhes:
 ```
 💬 Grupo:
 🕐 Validade:
@@ -25,6 +23,8 @@
 
 > Acoplar o botão de deletar o cadastro a qualquer momento, por opção do usuário.
 ```
+
+- [x] Enviar no grupo `mensagens` de retorno:
 
 **Mensagens de Retorno**
 > `Cadastro concluido com sucesso. Inicie uma conversa comigo para que eu possa lhe enviar seus dados de cadastro.`
