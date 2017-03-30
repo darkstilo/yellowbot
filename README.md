@@ -57,4 +57,4 @@
 
 [MENSAGEM EXIBIDA PARA MEMBROS NÃO CADASTRADOS QUE TENTAR USAR O COMANDO ADICIONAR SERVIDOR]
 
-> `Desculpe, mas você não tem previlegios para usar este comando.`
+> `Desculpe, mas você não tem previlegios para adicionar servidores.`
