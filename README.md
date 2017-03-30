@@ -49,6 +49,6 @@
 
 **Mensagens de Retorno**
 
-> `Usuário cadastrado com sucesso.` [MASTER]
+> `Usuário cadastrado com sucesso.` [MENSAGEM EXIBIDA PARA O MASTER]
 
-> `Desculpe, mas você não tem previlegios para usar este comando.`[MEMBROS NÃO CADASTRADOS]
+> `Desculpe, mas você não tem previlegios para usar este comando.`[MENSAGEM EXIBIDA PARA MEMBROS NÃO CADASTRADOS]
