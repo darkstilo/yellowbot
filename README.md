@@ -23,7 +23,7 @@
 👤 Usuário: 
 🔑 Senha:
 
-> Adicionar botão
+> Acoplar o botão de deletar o cadastro a qualquer momento, por opção do usuário.
 ```
 
 **Mensagens de Retorno**
