@@ -39,6 +39,13 @@
 
 > Permitir o uso do comando apenas em grupo.
 
-## GRUPOS E ADMINISTRADORES ##
+## GRUPOS E ADMINISTRADORES > SERVIDORES ##
 
-- [ ] Criar comando para adicionar IDs de grupos que possam usar as funcionalidades do BOT.
+- [ ] Criar comando para adicionar IDs de grupos que possam usar as funcionalidades do BOT;
+
+- [ ] Criar comando para adicionar IDs de usuários que podem usar o comando para adicionar o Servidor
+
+**Mensagens de Retorno**
+
+> `Usuário cadastrado com sucesso.` [MASTER]
+> `Desculpe, mas você não tem previlegios para usar este comando.`[MEMBROS NÃO CADASTRADOS]
