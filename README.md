@@ -41,11 +41,13 @@
 
 ## GRUPOS E ADMINISTRADORES > SERVIDORES ##
 
-- [ ] Criar comando para adicionar IDs de grupos que possam usar as funcionalidades do BOT;
+- [ ] Comando para adicionar IDs de grupos que possam usar as funcionalidades do BOT;
 
-- [ ] Criar comando para adicionar IDs de usuários que podem usar o comando para adicionar o Servidor
+- [ ] Comando para adicionar IDs de usuários que podem usar o comando para adicionar o Servidor
 
-- [ ] Criar comando para adicionar dados do servidor ao banco de dados.
+- [ ] Comando para adicionar dados do servidor ao banco de dados.
+
+> Após o servidor ser adicionado, exibir uma mensagem de retorno com os dados do servidor.
 
 **Mensagens de Retorno**
 
