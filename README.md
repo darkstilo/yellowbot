@@ -40,3 +40,5 @@
 > Permitir o uso do comando apenas em grupo.
 
 ## GRUPOS E ADMINISTRADORES ##
+
+- [ ] Criar comando para adicionar IDs de grupos que possam usar as funcionalidades do BOT.
