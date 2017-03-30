@@ -51,10 +51,10 @@
 
 **Mensagens de Retorno**
 
-> `Usuário cadastrado com sucesso.`
-
 [MENSAGEM EXIBIDA PARA O MASTER]
 
-> `Desculpe, mas você não tem previlegios para usar este comando.`
+> `Usuário cadastrado com sucesso.`
 
-[MENSAGEM EXIBIDA PARA MEMBROS NÃO CADASTRADOS]
+[MENSAGEM EXIBIDA PARA MEMBROS NÃO CADASTRADOS QUE TENTAR USAR O COMANDO ADICIONAR SERVIDOR]
+
+> `Desculpe, mas você não tem previlegios para usar este comando.`
