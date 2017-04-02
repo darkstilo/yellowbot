@@ -58,3 +58,7 @@
 [MENSAGEM EXIBIDA PARA MEMBROS NÃO CADASTRADOS QUE TENTAR USAR O COMANDO ADICIONAR SERVIDOR]
 
 > `Desculpe, mas você não tem previlegios para adicionar servidores.`
+
+## ADICIONAR ARQUIVOS #
+
+- [ ] Somente usuários com o ID cadastrado, servidores adicionados e grupo associado poderá adicionar os arquivos.
